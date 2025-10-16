@@ -26,7 +26,9 @@ The included diagram and notes clearly define each concept, illustrate their hie
 * **Definition:** A broader field that encompasses ML. It focuses on the entire process of deriving knowledge and insights from data, heavily utilizing ML models.
 
 ---
+Here’s VISUAL looks like when running:
 
+![Chatbot Output]()
 
 
 
