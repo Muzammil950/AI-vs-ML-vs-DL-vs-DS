@@ -28,7 +28,7 @@ The included diagram and notes clearly define each concept, illustrate their hie
 ---
 Here’s VISUAL looks like when running:
 
-![Chatbot Output]()
+![Chatbot Output](https://github.com/Muzammil950/AI-vs-ML-vs-DL-vs-DS/blob/a7a9eaf730908e3fc1aae5039f30ae694d58c1d4/AI%26ML%26DL.png)
 
 
 
